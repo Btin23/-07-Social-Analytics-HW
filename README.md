@@ -1,4 +1,4 @@
-# -07-Social-Analytics-HW
+# 07-Social-Analytics-HW
 # Unit 7 | Assignment - Distinguishing Sentiments
 
 ## Background
